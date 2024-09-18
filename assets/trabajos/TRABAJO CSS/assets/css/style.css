@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body{
+    background: rgb(30, 126, 170);
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+}
+header{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(201, 196, 180);
+    border-color: black;
+    background: rgb(28, 40, 209);
+    background-image: url('../img/14860db58706ae4748e6770f7902886fb440f4bded379a218b988ac8e2b0dcdc._SX1080_FMjpg_.jpg');
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100px;
+    margin: 0px auto;
+    border: 1px;
+    text-align: center;
+ 
+}
+h2 {
+    text-align: center;
+    line-height: 100%;
+    height: 100px;
+    border: 1px solid white;
+    background-color: rgb(57, 126, 190);
+
+
+    
+}
+
+.comic{
+    width: 100%;
+    border: 1px solid ;
+}
+.comic td img{
+    width: 30%;
+    border: 1px solid white;
+     
+    
+    
+
+}
+.description{
+    width: 20%;
+    border: 1px solid rgb(63, 48, 48); 
+    padding: 2em;
+    text-align: center;
+    background-color: rgb(121, 220, 238);
+    color: black;
+    
+}  
+
+footer{
+    background-color: blueviolet;
+    border: 1px solid white;
+    text-align: center;
+
+}
+    

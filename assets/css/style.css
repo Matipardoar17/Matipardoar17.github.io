@@ -1,0 +1,26 @@
+body{
+  background: rgb(175, 210, 240);
+  font-family: "Work-Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+
+#bg-image{
+  background-image: url(../img/65f8c4a43007d.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+footer{
+  background-color: rgb(29, 68, 100) ;
+  padding: 2em;
+  color: aliceblue;
+
+}
+
+.color-change{
+  background-color: rgb(98, 126, 201);
+}
+
